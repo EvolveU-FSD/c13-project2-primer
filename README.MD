@@ -1,5 +1,6 @@
-* Getting Started for Project 2
-'''
+# Getting Started for Project 2
+
+```
 npm install
 npm start
-'''
+```
