@@ -1,0 +1,24 @@
+<html>
+    <head>        
+        <link rel="stylesheet" href="index.css" />
+        <script src="index.js"></script>
+    </head>
+    <body>
+        <h1>Class Servers</h1>
+        <div id="servers"></div>
+        <button onclick="updateEntriesOnPage()">Refresh</button>
+
+        <h2>Add new server</h2>
+        <div>
+            <label class="name-field">Name</label>
+            <input id="name">
+        </div>
+        <div>
+            <label class="name-field">IP</label>
+            <input id="ip">
+        </div>
+        <button onclick="addClicked()">Add</button>
+        
+        <script>updateEntriesOnPage()</script>
+    </body>
+</html>

@@ -1,0 +1,22 @@
+{
+  "name": "c13-project2-primer",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/EvolveU-FSD/c13-project2-primer.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/EvolveU-FSD/c13-project2-primer/issues"
+  },
+  "homepage": "https://github.com/EvolveU-FSD/c13-project2-primer#readme",
+  "dependencies": {
+    "express": "^4.21.1"
+  }
+}
